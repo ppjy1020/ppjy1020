@@ -32,4 +32,4 @@
 ## 📫 Contact
 
 - GitHub: [@ppjy1020](https://github.com/ppjy1020)
-- Email: your-email@example.com
+- Email: ppjy1020@gmail.com
